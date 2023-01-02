@@ -1,3 +1,10 @@
+This is the second part of my uni assignment - The SQL code
+1. Creating all tables specified in ER Diagrams, applying all constraints    16 marks specified in the data dictionaryDDL
+2. Granting select, insert, update and delete table privileges to other group    
+
+
+
+
 CREATE TABLE MEMBER
 ( 
 Member_ID NUMBER(10) NOT NULL,
